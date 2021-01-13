@@ -2,6 +2,8 @@
 Examined the correlation between soil moisture and various CIMIS measurements by land cover type in python using
 remotely sensed data sets to determine the primary drivers of relationship.
 
+By Jack Seagrist and Karthik Ramesh
+
 ## Repository
 
 1. **Correltion_analysis_v3.ipynb** - Final notebook containing the correlation analysis between SMAP soil moisture values and land cover.
